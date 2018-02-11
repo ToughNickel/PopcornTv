@@ -6,11 +6,14 @@ This project was initiated under the mini-project course work under Database Man
 
 ## Tech Stack
 Front end development : 
-                        - Bootstrap framework (HTML5,CSS3)
-                        - JavaScript, jQuery
+- Bootstrap framework (HTML5,CSS3)
+- JavaScript, jQuery
                         
-Back end development :  - MySQL 5.7 server API
-Server-side script :    - PHP
+Back end development :  
+- MySQL 5.7 server API
+
+Server-side script :    
+- PHP
 
 ## Tools Used
 - XAMPP (Cross Platform Apache MySQL PHP Perl)
